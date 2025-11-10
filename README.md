@@ -1,8 +1,8 @@
 # Video Game Dataset Analysis
 
 ## Project Overview
-This project explores and analyzes a comprehensive video game dataset to uncover key insights and build predictive models.  
-It combines **data analysis**, **visualization**, and **machine learning** to understand video game sales trends.
+This project explores and analyses a comprehensive video game dataset to uncover key insights and build predictive models.  
+It combines data analysis, visualisation, and machine learning to understand video game sales trends.
 
 ---
 
@@ -14,7 +14,7 @@ It combines **data analysis**, **visualization**, and **machine learning** to un
 ---
 
 ## Project Structure
-The analysis is divided into **two main parts**:
+The analysis is divided into two main parts:
 
 ### **PART 1: Exploratory Data Analysis (EDA)**
 Answering key business questions:
@@ -62,7 +62,7 @@ Includes visualisations such as bar charts, heatmaps, and correlation plots.
 ---
 
 ##  Key Insights
-- Certain **publishers and genres** dominate global sales (e.g., Nintendo, Action genre).  
+- Certain publishers and genres dominate global sales (e.g., Nintendo, Action genre).  
 - **Sales patterns** show peaks during certain console generations.  
 - **Regional differences** highlight distinct gaming preferences.  
 - **Critic and user scores** are moderately correlated, suggesting some alignment in opinions.  
@@ -85,10 +85,6 @@ The dataset contains information about:
 - Sales (NA, EU, JP, Other, Global)  
 - Critic and user scores  
 - Genres  
-
-*(Source: Publicly available video game sales dataset)*
-
----
 
 ---
 
